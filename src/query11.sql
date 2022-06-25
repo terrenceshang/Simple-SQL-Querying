@@ -1,0 +1,1 @@
+SELECT customerNumber, amount FROM payments WHERE substr(checkNumber, 2, 1) LIKE "Q";

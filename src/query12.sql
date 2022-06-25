@@ -1,0 +1,1 @@
+SELECT jobTitle FROM employees GROUP BY jobTitle
